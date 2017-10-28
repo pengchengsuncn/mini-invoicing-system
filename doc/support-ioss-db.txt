@@ -1,0 +1,2 @@
+update mysql.user set password=PASSWORD('l4abd5oFt') where User='root';
+flush privileges;
